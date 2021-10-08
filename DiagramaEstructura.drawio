@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T11:25:02.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.4.3" etag="ZSB2FPeo84tCVpPP4lRz" type="github"><diagram id="AI4jXtwQXXRuBNDluSqk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-08T13:04:57.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="uu2I3iBLOi3VbYwj4Ejg" version="15.4.3" type="github">
+  <diagram id="AI4jXtwQXXRuBNDluSqk" name="Page-1">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="teiz955O3qd439UrQBPO-1" value="TipoSeguros" style="whiteSpace=wrap;html=1;align=center;fillColor=#FFF8C7;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-2" value="Motos" style="whiteSpace=wrap;html=1;align=center;fillColor=#FFF8C7;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-3" value="Seguro" style="whiteSpace=wrap;html=1;align=center;fillColor=#FFF8C7;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-4" value="Todo riesgo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-30" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-5" value="Todo riesgo franquicica&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-6" value="Robo e incendios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-7" value="Básico" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-1" target="teiz955O3qd439UrQBPO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-1" target="teiz955O3qd439UrQBPO-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-1" target="teiz955O3qd439UrQBPO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-1" target="teiz955O3qd439UrQBPO-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-12" value="Gran cilindrada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-13" value="Pequeña cilindrada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-14" value="Custom" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="575" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-15" value="Competición" style="ellipse;whiteSpace=wrap;html=1;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="414" y="600" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-12" target="teiz955O3qd439UrQBPO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="teiz955O3qd439UrQBPO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-2" target="teiz955O3qd439UrQBPO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="sourcePoint" />
+            <mxPoint x="620" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-20" value="Cliente" style="whiteSpace=wrap;html=1;align=center;fillColor=#FFF8C7;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-21" value="hace" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#A3E080;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-22" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#A3E080;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-23" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#A3E080;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-24" value="Edad" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-26" value="Años sin partes" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#75E3FF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-26" target="teiz955O3qd439UrQBPO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-24" target="teiz955O3qd439UrQBPO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teiz955O3qd439UrQBPO-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="teiz955O3qd439UrQBPO-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="330" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
